@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050821731069",
+    "project_id": "atelier-s-bouslim-iir5g7",
+    "storage_bucket": "atelier-s-bouslim-iir5g7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050821731069:android:a19486cf3f53e042ff1494",
+        "android_client_info": {
+          "package_name": "com.example.produits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADEzNxD_gy46aGk51lsSZBdi338GiHDv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050821731069:android:8f31db69cb61b39aff1494",
+        "android_client_info": {
+          "package_name": "com.example.produitsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADEzNxD_gy46aGk51lsSZBdi338GiHDv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
